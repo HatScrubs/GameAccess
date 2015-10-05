@@ -29,4 +29,4 @@ Just click [Issues](https://github.com/HatScrubs/GameAccess/issues) on the right
 
 # Donations
 
-This has not come up yet, but if it does, heres the current stance.  As for scrubscribers.com, if you want to donate as a thanks for making this, instead donate to hatfilms on twitch and add #scrubhub in your message.  Thanks!
+This has not come up yet, but if it does, heres the current stance.  As for scrubscribers.com, if you want to donate as a thanks for making this, instead donate to hatfilms on twitch and add **#scrubhub** in your message.  Thanks!
