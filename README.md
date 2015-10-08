@@ -24,7 +24,7 @@ If you would like to translate this site into your language, please consider hel
 Just click [Issues](https://github.com/HatScrubs/GameAccess/issues) on the right.  Submit any ideas or problems you have found and we will look into them for you.
 
 # Contributors
-* [Stygiansabyss](https://twitter.com/Stygiansabyss/)
+* [Stygian](https://twitter.com/Stygiansabyss/)
 * [Akhawais](http://www.reddit.com/user/Akhawais)
 
 # Donations
