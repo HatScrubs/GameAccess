@@ -4,14 +4,17 @@ return [
     // Left Menu
     'home'           => 'Home',
     'poll'           => 'Polls',
+    'server'         => 'Server List',
     // Right menu
     // User
     'login'          => 'Login',
     'logout'         => 'Logout',
+    'profile'        => 'Profile',
     'link'           => 'Link Accounts',
     'games'          => 'Steam Games',
     // Admin
     'manage_session' => 'Manage Sessions',
     'manage_poll'    => 'Manage Polls',
+    'manage_server'  => 'Manage Servers',
     'help'           => 'Help',
 ];

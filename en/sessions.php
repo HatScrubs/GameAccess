@@ -11,12 +11,18 @@ return [
             'schedule' => 'Schedule a new session',
         ],
         'buttons'  => [
+            'watch'  => 'Watch',
             'start'  => 'Manage',
             'edit'   => 'Edit',
             'delete' => 'Delete',
         ],
         'sessions' => 'games',
         'players'  => 'players',
+    ],
+    'watch'        => [
+        'no_game'       => 'No game has started yet.',
+        'game_finished' => 'Game ended.<br />New password may be coming soon.',
+        'password'      => 'The password is',
     ],
     'show'         => [
         'details' => [
