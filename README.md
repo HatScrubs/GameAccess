@@ -1,3 +1,5 @@
+[![Join the chat at https://gitter.im/HatScrubs](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/HatScrubs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 # Updates and News
 You can check a few places for updates about the site.  We have an account on [twitter](https://twitter.com/hatscrubscriber) that we will announce releases on.  You can also look at the [releases](https://github.com/HatScrubs/GameAccess/releases) section here.
 
