@@ -9,6 +9,7 @@ return [
             'planned'  => 'Planned',
             'actual'   => 'Actual',
             'schedule' => 'Schedule a new session',
+            'offline'  => 'Schedule Offline',
         ],
         'buttons'  => [
             'watch'  => 'Watch',
@@ -18,6 +19,15 @@ return [
         ],
         'sessions' => 'games',
         'players'  => 'players',
+    ],
+    'offline'      => [
+        'title'        => 'Schedule a day there will not be a stream',
+        'name'         => 'Title',
+        'name_help'    => 'This will be displayed as the title for that stream day.',
+        'details'      => 'Details',
+        'details_help' => 'Any notes you would like to include as to why it will be offline.',
+        'date'         => 'Date',
+        'submit'       => 'Save Offline',
     ],
     'watch'        => [
         'no_game'       => 'No game has started yet.',
@@ -78,8 +88,16 @@ return [
         'finished' => 'This session has finished.',
     ],
     'messages'     => [
-        'created' => 'Session created!',
-        'updated' => 'Session updated!',
-        'deleted' => 'Session deleted!',
+        'offline_title'        => 'Offline',
+        'running'              => '(Currently running...)',
+        'created'              => 'Session created!',
+        'updated'              => 'Session updated!',
+        'deleted'              => 'Session deleted!',
+        'created_update_steam' => 'Session created.  Please make sure the new game details are correct.',
+        'offline'              => [
+            'created' => 'Offline scheduled!',
+            'updated' => 'Offline updated!',
+            'deleted' => 'Offline deleted!',
+        ],
     ],
 ];

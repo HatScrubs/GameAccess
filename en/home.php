@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'index' => [
+    'index'   => [
         'headers'       => [
             'active'  => 'Active sessions',
             'today'   => 'Today\'s game sessions!',
@@ -17,4 +17,6 @@ return [
         ],
         'authorization' => 'Only those that are subscribed to Hat Films on Twitch and logged in can join matches.',
     ],
+    'today'   => 'Today',
+    'contact' => 'Hat Films Links',
 ];

@@ -3,6 +3,7 @@
 return [
     // Left Menu
     'home'           => 'Home',
+    'stream'         => 'Stream',
     'poll'           => 'Polls',
     'server'         => 'Server List',
     // Right menu
@@ -14,6 +15,7 @@ return [
     'games'          => 'Steam Games',
     // Admin
     'manage_session' => 'Manage Sessions',
+    'manage_game'    => 'Manage Games',
     'manage_poll'    => 'Manage Polls',
     'manage_server'  => 'Manage Servers',
     'help'           => 'Help',
