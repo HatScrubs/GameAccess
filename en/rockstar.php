@@ -8,7 +8,8 @@ return [
     ],
     'messages' => [
         'linked'     => 'Rockstar account linked!',
-        'not_linked' => 'Could not authenticate your Rockstar account.'
+        'not_linked' => 'Could not authenticate your Rockstar account.',
+        'member'     => 'You are already a member of the crew.',
     ],
     'rank'     => [
         0 => 'Leader',

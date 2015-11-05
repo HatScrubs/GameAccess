@@ -20,6 +20,8 @@ return [
         'title'   => 'Reddit',
         'help'    => 'Link your account with Reddit to get access to unique flair on the subreddit.',
         'connect' => 'Connect to Reddit',
+        'enable'  => 'Enable Reddit flair',
+        'disable' => 'Disable Reddit flair',
     ],
     'rockstar' => [
         'title'   => 'Rockstar Social Club',

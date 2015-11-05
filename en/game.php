@@ -17,11 +17,12 @@ return [
         ],
     ],
     'edit'     => [
-        'title'   => 'Update a game',
-        'name'    => 'Name',
-        'preview' => 'Image Preview',
-        'image'   => 'Image',
-        'submit'  => 'Save game details',
+        'title'      => 'Update a game',
+        'name'       => 'Name',
+        'preview'    => 'Image Preview',
+        'image'      => 'Image',
+        'image_help' => 'Google Image Search',
+        'submit'     => 'Save game details',
     ],
     'create'   => [
         'title'   => 'Add a new game',

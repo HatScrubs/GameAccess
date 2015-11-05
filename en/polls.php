@@ -23,6 +23,7 @@ return [
         'created'    => 'Poll created!',
         'updated'    => 'Poll updated!',
         'deleted'    => 'Poll deleted!',
+        'inactive'   => 'This poll is either finished or does not exist.',
     ],
     'title'    => [
         'create' => 'Create a new poll',

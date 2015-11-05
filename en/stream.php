@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'watch'   => 'Watch Now',
+    'watch'   => 'Go to stream',
     'buttons' => [
         'chat_show' => 'Show Chat',
         'chat_hide' => 'Hide Chat',
